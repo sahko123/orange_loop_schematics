@@ -1,2 +1,4 @@
-# RP2350_KiCad
-Symbols, Footprints &amp; Models for the RP2350
+#Orange Loop Schematics
+These schematics were created in
+
+As seen on TV! (probably not but at least its on youtube at https://youtu.be/dBEupkQBFis )
